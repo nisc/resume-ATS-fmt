@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+
+# Project configuration
+.exceptions
+
+# Word files
+*.docx
